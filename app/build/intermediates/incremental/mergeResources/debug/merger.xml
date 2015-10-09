@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="unspecified"><source path="F:\androidStudioWorkspace\car\app\build\intermediates\exploded-aar\car\library\unspecified\res"><file name="slide_in_from_bottom" path="F:\androidStudioWorkspace\car\app\build\intermediates\exploded-aar\car\library\unspecified\res\anim\slide_in_from_bottom.xml" qualifiers="" type="anim"/><file name="slide_in_from_top" path="F:\androidStudioWorkspace\car\app\build\intermediates\exploded-aar\car\library\unspecified\res\anim\slide_in_from_top.xml" qualifiers="" type="anim"/><file name="slide_out_to_bottom" path="F:\androidStudioWorkspace\car\app\build\intermediates\exploded-aar\car\library\unspecified\res\anim\slide_out_to_bottom.xml" qualifiers="" type="anim"/><file name="slide_out_to_top" path="F:\androidStudioWorkspace\car\app\build\intermediates\exploded-aar\car\library\unspecified\res\anim\slide_out_to_top.xml" qualifiers="" type="anim"/><file name="indicator_bg_bottom" path="F:\androidStudioWorkspace\car\app\build\intermediates\exploded-aar\car\library\unspecified\res\drawable\indicator_bg_bottom.xml" qualifiers="" type="drawable"/><file name="indicator_bg_top" path="F:\androidStudioWorkspace\car\app\build\intermediates\exploded-aar\car\library\unspecified\res\drawable\indicator_bg_top.xml" qualifiers="" type="drawable"/><file name="default_ptr_flip" path="F:\androidStudioWorkspace\car\app\build\intermediates\exploded-aar\car\library\unspecified\res\drawable-hdpi-v4\default_ptr_flip.png" qualifiers="hdpi-v4" type="drawable"/><file name="default_ptr_rotate" path="F:\androidStudioWorkspace\car\app\build\intermediates\exploded-aar\car\library\unspecified\res\drawable-hdpi-v4\default_ptr_rotate.png" qualifiers="hdpi-v4" type="drawable"/><file name="indicator_arrow" path="F:\androidStudioWorkspace\car\app\build\intermediates\exploded-aar\car\library\unspecified\res\drawable-hdpi-v4\indicator_arrow.png" qualifiers="hdpi-v4" type="drawable"/><file name="default_ptr_flip" path="F:\androidStudioWorkspace\car\app\build\intermediates\exploded-aar\car\library\unspecified\res\drawable-mdpi-v4\default_ptr_flip.png" qualifiers="mdpi-v4" type="drawable"/><file name="default_ptr_rotate" path="F:\androidStudioWorkspace\car\app\build\intermediates\exploded-aar\car\library\unspecified\res\drawable-mdpi-v4\default_ptr_rotate.png" qualifiers="mdpi-v4" type="drawable"/><file name="indicator_arrow" path="F:\androidStudioWorkspace\car\app\build\intermediates\exploded-aar\car\library\unspecified\res\drawable-mdpi-v4\indicator_arrow.png" qualifiers="mdpi-v4" type="drawable"/><file name="default_ptr_flip" path="F:\androidStudioWorkspace\car\app\build\intermediates\exploded-aar\car\library\unspecified\res\drawable-xhdpi-v4\default_ptr_flip.png" qualifiers="xhdpi-v4" type="drawable"/><file name="default_ptr_rotate" path="F:\androidStudioWorkspace\car\app\build\intermediates\exploded-aar\car\library\unspecified\res\drawable-xhdpi-v4\default_ptr_rotate.png" qualifiers="xhdpi-v4" type="drawable"/><file name="indicator_arrow" path="F:\androidStudioWorkspace\car\app\build\intermediates\exploded-aar\car\library\unspecified\res\drawable-xhdpi-v4\indicator_arrow.png" qualifiers="xhdpi-v4" type="drawable"/><file name="pull_to_refresh_header_horizontal" path="F:\androidStudioWorkspace\car\app\build\intermediates\exploded-aar\car\library\unspecified\res\layout\pull_to_refresh_header_horizontal.xml" qualifiers="" type="layout"/><file name="pull_to_refresh_header_vertical" path="F:\androidStudioWorkspace\car\app\build\intermediates\exploded-aar\car\library\unspecified\res\layout\pull_to_refresh_header_vertical.xml" qualifiers="" type="layout"/><file path="F:\androidStudioWorkspace\car\app\build\intermediates\exploded-aar\car\library\unspecified\res\values\values.xml" qualifiers=""><dimen name="indicator_corner_radius">12dp</dimen><string name="pull_to_refresh_from_bottom_pull_label">@string/pull_to_refresh_pull_label</string><dimen name="indicator_right_padding">10dp</dimen><item name="scrollview" type="id"/><declare-styleable name="PullToRefresh"><attr format="reference|color" name="ptrRefreshableViewBackground"/><attr format="reference|color" name="ptrHeaderBackground"/><attr format="reference|color" name="ptrHeaderTextColor"/><attr format="reference|color" name="ptrHeaderSubTextColor"/><attr name="ptrMode"><flag name="disabled" value="0x0"/><flag name="pullFromStart" value="0x1"/><flag name="pullFromEnd" value="0x2"/><flag name="both" value="0x3"/><flag name="manualOnly" value="0x4"/><flag name="pullDownFromTop" value="0x1"/><flag name="pullUpFromBottom" value="0x2"/></attr><attr format="reference|boolean" name="ptrShowIndicator"/><attr format="reference" name="ptrDrawable"/><attr format="reference" name="ptrDrawableStart"/><attr format="reference" name="ptrDrawableEnd"/><attr format="reference|boolean" name="ptrOverScroll"/><attr format="reference" name="ptrHeaderTextAppearance"/><attr format="reference" name="ptrSubHeaderTextAppearance"/><attr name="ptrAnimationStyle"><flag name="rotate" value="0x0"/><flag name="flip" value="0x1"/></attr><attr format="reference|boolean" name="ptrScrollingWhileRefreshingEnabled"/><attr format="reference|boolean" name="ptrListViewExtrasEnabled"/><attr format="reference|boolean" name="ptrRotateDrawableWhilePulling"/><attr format="reference|color" name="ptrAdapterViewBackground"/><attr format="reference" name="ptrDrawableTop"/><attr format="reference" name="ptrDrawableBottom"/></declare-styleable><item name="gridview" type="id"/><string name="pull_to_refresh_release_label">Release to refresh…</string><string name="pull_to_refresh_from_bottom_release_label">@string/pull_to_refresh_release_label</string><string name="pull_to_refresh_from_bottom_refreshing_label">@string/pull_to_refresh_refreshing_label</string><dimen name="header_footer_top_bottom_padding">12dp</dimen><item name="webview" type="id"/><dimen name="indicator_internal_padding">4dp</dimen><string name="pull_to_refresh_refreshing_label">Loading…</string><string name="pull_to_refresh_pull_label">Pull to refresh…</string><dimen name="header_footer_left_right_padding">24dp</dimen></file><file path="F:\androidStudioWorkspace\car\app\build\intermediates\exploded-aar\car\library\unspecified\res\values-ar\values-ar.xml" qualifiers="ar"><string name="pull_to_refresh_release_label">اترك للتحديث…</string><string name="pull_to_refresh_refreshing_label">تحميل…</string><string name="pull_to_refresh_pull_label">اسحب للتحديث…</string></file><file path="F:\androidStudioWorkspace\car\app\build\intermediates\exploded-aar\car\library\unspecified\res\values-cs\values-cs.xml" qualifiers="cs"><string name="pull_to_refresh_refreshing_label">Načítání…</string><string name="pull_to_refresh_pull_label">Tažením aktualizujete…</string><string name="pull_to_refresh_release_label">Uvolněním aktualizujete…</string></file><file path="F:\androidStudioWorkspace\car\app\build\intermediates\exploded-aar\car\library\unspecified\res\values-de\values-de.xml" qualifiers="de"><string name="pull_to_refresh_release_label">Loslassen zum Aktualisieren…</string><string name="pull_to_refresh_refreshing_label">Laden…</string><string name="pull_to_refresh_pull_label">Ziehen zum Aktualisieren…</string></file><file path="F:\androidStudioWorkspace\car\app\build\intermediates\exploded-aar\car\library\unspecified\res\values-es\values-es.xml" qualifiers="es"><string name="pull_to_refresh_refreshing_label">Cargando…</string><string name="pull_to_refresh_pull_label">Tirar para actualizar…</string><string name="pull_to_refresh_release_label">Soltar para actualizar…</string></file><file path="F:\androidStudioWorkspace\car\app\build\intermediates\exploded-aar\car\library\unspecified\res\values-fi\values-fi.xml" qualifiers="fi"><string name="pull_to_refresh_release_label">Päivitä vapauttamalla…</string><string name="pull_to_refresh_from_bottom_release_label">@string/pull_to_refresh_release_label</string><string name="pull_to_refresh_pull_label">Päivitä vetämällä alas…</string><string name="pull_to_refresh_from_bottom_pull_label">Päivitä vetämällä ylös…</string><string name="pull_to_refresh_refreshing_label">Päivitetään…</string><string name="pull_to_refresh_from_bottom_refreshing_label">@string/pull_to_refresh_refreshing_label</string></file><file path="F:\androidStudioWorkspace\car\app\build\intermediates\exploded-aar\car\library\unspecified\res\values-fr\values-fr.xml" qualifiers="fr"><string name="pull_to_refresh_refreshing_label">Chargement…</string><string name="pull_to_refresh_release_label">Relâcher pour rafraîchir…</string><string name="pull_to_refresh_pull_label">Tirez pour rafraîchir…</string></file><file path="F:\androidStudioWorkspace\car\app\build\intermediates\exploded-aar\car\library\unspecified\res\values-he\values-he.xml" qualifiers="he"><string name="pull_to_refresh_release_label">שחרר לרענון…</string><string name="pull_to_refresh_pull_label">משוך לרענון…</string><string name="pull_to_refresh_refreshing_label">טוען…</string></file><file path="F:\androidStudioWorkspace\car\app\build\intermediates\exploded-aar\car\library\unspecified\res\values-it\values-it.xml" qualifiers="it"><string name="pull_to_refresh_pull_label">Tira per aggiornare…</string><string name="pull_to_refresh_release_label">Rilascia per aggionare…</string><string name="pull_to_refresh_refreshing_label">Caricamento…</string></file><file path="F:\androidStudioWorkspace\car\app\build\intermediates\exploded-aar\car\library\unspecified\res\values-iw\values-iw.xml" qualifiers="iw"><string name="pull_to_refresh_refreshing_label">טוען…</string><string name="pull_to_refresh_release_label">שחרר לרענון…</string><string name="pull_to_refresh_pull_label">משוך לרענון…</string></file><file path="F:\androidStudioWorkspace\car\app\build\intermediates\exploded-aar\car\library\unspecified\res\values-ja\values-ja.xml" qualifiers="ja"><string name="pull_to_refresh_pull_label">画面を引っ張って…</string><string name="pull_to_refresh_refreshing_label">読み込み中…</string><string name="pull_to_refresh_release_label">指を離して更新…</string></file><file path="F:\androidStudioWorkspace\car\app\build\intermediates\exploded-aar\car\library\unspecified\res\values-ko\values-ko.xml" qualifiers="ko"><string name="pull_to_refresh_pull_label">당겨서 새로 고침…</string><string name="pull_to_refresh_refreshing_label">로드 중…</string><string name="pull_to_refresh_release_label">놓아서 새로 고침…</string></file><file path="F:\androidStudioWorkspace\car\app\build\intermediates\exploded-aar\car\library\unspecified\res\values-nl\values-nl.xml" qualifiers="nl"><string name="pull_to_refresh_pull_label">Sleep om te vernieuwen…</string><string name="pull_to_refresh_release_label">Loslaten om te vernieuwen…</string><string name="pull_to_refresh_refreshing_label">Laden…</string></file><file path="F:\androidStudioWorkspace\car\app\build\intermediates\exploded-aar\car\library\unspecified\res\values-pl\values-pl.xml" qualifiers="pl"><string name="pull_to_refresh_pull_label">Pociągnij, aby odświeżyć…</string><string name="pull_to_refresh_release_label">Puść, aby odświeżyć…</string><string name="pull_to_refresh_refreshing_label">Wczytywanie…</string></file><file path="F:\androidStudioWorkspace\car\app\build\intermediates\exploded-aar\car\library\unspecified\res\values-pt\values-pt.xml" qualifiers="pt"><string name="pull_to_refresh_pull_label">Puxe para atualizar…</string><string name="pull_to_refresh_refreshing_label">A carregar…</string><string name="pull_to_refresh_release_label">Liberação para atualizar…</string></file><file path="F:\androidStudioWorkspace\car\app\build\intermediates\exploded-aar\car\library\unspecified\res\values-pt-rBR\values-pt-rBR.xml" qualifiers="pt-rBR"><string name="pull_to_refresh_pull_label">Puxe para atualizar…</string><string name="pull_to_refresh_release_label">Libere para atualizar…</string><string name="pull_to_refresh_refreshing_label">Carregando…</string></file><file path="F:\androidStudioWorkspace\car\app\build\intermediates\exploded-aar\car\library\unspecified\res\values-ro\values-ro.xml" qualifiers="ro"><string name="pull_to_refresh_pull_label">Trage pentru a reîmprospăta…</string><string name="pull_to_refresh_refreshing_label">Încărcare…</string><string name="pull_to_refresh_release_label">Eliberează pentru a reîmprospăta…</string></file><file path="F:\androidStudioWorkspace\car\app\build\intermediates\exploded-aar\car\library\unspecified\res\values-ru\values-ru.xml" qualifiers="ru"><string name="pull_to_refresh_release_label">Отпустите для обновления…</string><string name="pull_to_refresh_refreshing_label">Загрузка…</string><string name="pull_to_refresh_pull_label">Потяните для обновления…</string></file><file path="F:\androidStudioWorkspace\car\app\build\intermediates\exploded-aar\car\library\unspecified\res\values-zh\values-zh.xml" qualifiers="zh"><string name="pull_to_refresh_release_label">放开以刷新…</string><string name="pull_to_refresh_pull_label">下拉刷新…</string><string name="pull_to_refresh_refreshing_label">正在载入…</string></file></source></dataSet><dataSet config="main"><source path="F:\androidStudioWorkspace\car\app\src\main\res"><file name="alert_left_btn_selector" path="F:\androidStudioWorkspace\car\app\src\main\res\drawable\alert_left_btn_selector.xml" qualifiers="" type="drawable"/><file name="alert_mid_btn_selector" path="F:\androidStudioWorkspace\car\app\src\main\res\drawable\alert_mid_btn_selector.xml" qualifiers="" type="drawable"/><file name="alert_right_btn_selector" path="F:\androidStudioWorkspace\car\app\src\main\res\drawable\alert_right_btn_selector.xml" qualifiers="" type="drawable"/><file name="alert_single_btn_selector" path="F:\androidStudioWorkspace\car\app\src\main\res\drawable\alert_single_btn_selector.xml" qualifiers="" type="drawable"/><file name="begin_line_normal" path="F:\androidStudioWorkspace\car\app\src\main\res\drawable\begin_line_normal.png" qualifiers="" type="drawable"/><file name="bk" path="F:\androidStudioWorkspace\car\app\src\main\res\drawable\bk.jpg" qualifiers="" type="drawable"/><file name="bk2" path="F:\androidStudioWorkspace\car\app\src\main\res\drawable\bk2.jpg" qualifiers="" type="drawable"/><file name="car_find_selector" path="F:\androidStudioWorkspace\car\app\src\main\res\drawable\car_find_selector.xml" qualifiers="" type="drawable"/><file name="car_news_selector" path="F:\androidStudioWorkspace\car\app\src\main\res\drawable\car_news_selector.xml" qualifiers="" type="drawable"/><file name="car_price_selector" path="F:\androidStudioWorkspace\car\app\src\main\res\drawable\car_price_selector.xml" qualifiers="" type="drawable"/><file name="car_question_selector" path="F:\androidStudioWorkspace\car\app\src\main\res\drawable\car_question_selector.xml" qualifiers="" type="drawable"/><file name="car_self_selector" path="F:\androidStudioWorkspace\car\app\src\main\res\drawable\car_self_selector.xml" qualifiers="" type="drawable"/><file name="empty_photo" path="F:\androidStudioWorkspace\car\app\src\main\res\drawable\empty_photo.9.png" qualifiers="" type="drawable"/><file name="listview_item_bg" path="F:\androidStudioWorkspace\car\app\src\main\res\drawable\listview_item_bg.xml" qualifiers="" type="drawable"/><file name="listview_item_hover" path="F:\androidStudioWorkspace\car\app\src\main\res\drawable\listview_item_hover.xml" qualifiers="" type="drawable"/><file name="listview_item_normal" path="F:\androidStudioWorkspace\car\app\src\main\res\drawable\listview_item_normal.xml" qualifiers="" type="drawable"/><file name="news_ic_comment" path="F:\androidStudioWorkspace\car\app\src\main\res\drawable\news_ic_comment.png" qualifiers="" type="drawable"/><file name="news_ic_line" path="F:\androidStudioWorkspace\car\app\src\main\res\drawable\news_ic_line.png" qualifiers="" type="drawable"/><file name="news_ic_selected" path="F:\androidStudioWorkspace\car\app\src\main\res\drawable\news_ic_selected.png" qualifiers="" type="drawable"/><file name="progress_bar_states" path="F:\androidStudioWorkspace\car\app\src\main\res\drawable\progress_bar_states.xml" qualifiers="" type="drawable"/><file name="progress_rotate" path="F:\androidStudioWorkspace\car\app\src\main\res\drawable\progress_rotate.png" qualifiers="" type="drawable"/><file name="progress_rotate_large" path="F:\androidStudioWorkspace\car\app\src\main\res\drawable\progress_rotate_large.xml" qualifiers="" type="drawable"/><file name="ssdk_recomm_def_app_image" path="F:\androidStudioWorkspace\car\app\src\main\res\drawable\ssdk_recomm_def_app_image.xml" qualifiers="" type="drawable"/><file name="ssdk_recomm_friends_share_msg" path="F:\androidStudioWorkspace\car\app\src\main\res\drawable\ssdk_recomm_friends_share_msg.xml" qualifiers="" type="drawable"/><file name="subtract" path="F:\androidStudioWorkspace\car\app\src\main\res\drawable\subtract.png" qualifiers="" type="drawable"/><file name="ic_launcher" path="F:\androidStudioWorkspace\car\app\src\main\res\drawable-hdpi\ic_launcher.png" qualifiers="hdpi" type="drawable"/><file name="ic_launcher" path="F:\androidStudioWorkspace\car\app\src\main\res\drawable-mdpi\ic_launcher.png" qualifiers="mdpi" type="drawable"/><file name="alert_bg" path="F:\androidStudioWorkspace\car\app\src\main\res\drawable-xhdpi\alert_bg.9.png" qualifiers="xhdpi" type="drawable"/><file name="alert_btn_left_nor" path="F:\androidStudioWorkspace\car\app\src\main\res\drawable-xhdpi\alert_btn_left_nor.9.png" qualifiers="xhdpi" type="drawable"/><file name="alert_btn_mid_nor" path="F:\androidStudioWorkspace\car\app\src\main\res\drawable-xhdpi\alert_btn_mid_nor.9.png" qualifiers="xhdpi" type="drawable"/><file name="alert_btn_right_nor" path="F:\androidStudioWorkspace\car\app\src\main\res\drawable-xhdpi\alert_btn_right_nor.9.png" qualifiers="xhdpi" type="drawable"/><file name="alert_btn_single_nor" path="F:\androidStudioWorkspace\car\app\src\main\res\drawable-xhdpi\alert_btn_single_nor.9.png" qualifiers="xhdpi" type="drawable"/><file name="bg_toast" path="F:\androidStudioWorkspace\car\app\src\main\res\drawable-xhdpi\bg_toast.9.png" qualifiers="xhdpi" type="drawable"/><file name="car_bg_tab" path="F:\androidStudioWorkspace\car\app\src\main\res\drawable-xhdpi\car_bg_tab.png" qualifiers="xhdpi" type="drawable"/><file name="car_ic_find" path="F:\androidStudioWorkspace\car\app\src\main\res\drawable-xhdpi\car_ic_find.png" qualifiers="xhdpi" type="drawable"/><file name="car_ic_find_selected" path="F:\androidStudioWorkspace\car\app\src\main\res\drawable-xhdpi\car_ic_find_selected.png" qualifiers="xhdpi" type="drawable"/><file name="car_ic_news" path="F:\androidStudioWorkspace\car\app\src\main\res\drawable-xhdpi\car_ic_news.png" qualifiers="xhdpi" type="drawable"/><file name="car_ic_news_selected" path="F:\androidStudioWorkspace\car\app\src\main\res\drawable-xhdpi\car_ic_news_selected.png" qualifiers="xhdpi" type="drawable"/><file name="car_ic_price" path="F:\androidStudioWorkspace\car\app\src\main\res\drawable-xhdpi\car_ic_price.png" qualifiers="xhdpi" type="drawable"/><file name="car_ic_price_selected" path="F:\androidStudioWorkspace\car\app\src\main\res\drawable-xhdpi\car_ic_price_selected.png" qualifiers="xhdpi" type="drawable"/><file name="car_ic_question" path="F:\androidStudioWorkspace\car\app\src\main\res\drawable-xhdpi\car_ic_question.png" qualifiers="xhdpi" type="drawable"/><file name="car_ic_question_selected" path="F:\androidStudioWorkspace\car\app\src\main\res\drawable-xhdpi\car_ic_question_selected.png" qualifiers="xhdpi" type="drawable"/><file name="car_ic_self" path="F:\androidStudioWorkspace\car\app\src\main\res\drawable-xhdpi\car_ic_self.png" qualifiers="xhdpi" type="drawable"/><file name="car_ic_self_selected" path="F:\androidStudioWorkspace\car\app\src\main\res\drawable-xhdpi\car_ic_self_selected.png" qualifiers="xhdpi" type="drawable"/><file name="ic_launcher" path="F:\androidStudioWorkspace\car\app\src\main\res\drawable-xhdpi\ic_launcher.png" qualifiers="xhdpi" type="drawable"/><file name="progress_rotate" path="F:\androidStudioWorkspace\car\app\src\main\res\drawable-xhdpi\progress_rotate.png" qualifiers="xhdpi" type="drawable"/><file name="ssdk_auth_title_back" path="F:\androidStudioWorkspace\car\app\src\main\res\drawable-xhdpi\ssdk_auth_title_back.png" qualifiers="xhdpi" type="drawable"/><file name="ssdk_back_arr" path="F:\androidStudioWorkspace\car\app\src\main\res\drawable-xhdpi\ssdk_back_arr.png" qualifiers="xhdpi" type="drawable"/><file name="ssdk_logo" path="F:\androidStudioWorkspace\car\app\src\main\res\drawable-xhdpi\ssdk_logo.png" qualifiers="xhdpi" type="drawable"/><file name="ssdk_recomm_back" path="F:\androidStudioWorkspace\car\app\src\main\res\drawable-xhdpi\ssdk_recomm_back.png" qualifiers="xhdpi" type="drawable"/><file name="ssdk_recomm_btn_bg" path="F:\androidStudioWorkspace\car\app\src\main\res\drawable-xhdpi\ssdk_recomm_btn_bg.9.png" qualifiers="xhdpi" type="drawable"/><file name="ssdk_recomm_def_ad_image" path="F:\androidStudioWorkspace\car\app\src\main\res\drawable-xhdpi\ssdk_recomm_def_ad_image.png" qualifiers="xhdpi" type="drawable"/><file name="ssdk_recomm_def_app_logo" path="F:\androidStudioWorkspace\car\app\src\main\res\drawable-xhdpi\ssdk_recomm_def_app_logo.png" qualifiers="xhdpi" type="drawable"/><file name="ssdk_recomm_def_avatar" path="F:\androidStudioWorkspace\car\app\src\main\res\drawable-xhdpi\ssdk_recomm_def_avatar.png" qualifiers="xhdpi" type="drawable"/><file name="ssdk_recomm_def_plat_logo" path="F:\androidStudioWorkspace\car\app\src\main\res\drawable-xhdpi\ssdk_recomm_def_plat_logo.png" qualifiers="xhdpi" type="drawable"/><file name="ssdk_recomm_download_app" path="F:\androidStudioWorkspace\car\app\src\main\res\drawable-xhdpi\ssdk_recomm_download_app.9.png" qualifiers="xhdpi" type="drawable"/><file name="ssdk_recomm_list_item_back" path="F:\androidStudioWorkspace\car\app\src\main\res\drawable-xhdpi\ssdk_recomm_list_item_back.9.png" qualifiers="xhdpi" type="drawable"/><file name="ssdk_recomm_list_item_back_bottom" path="F:\androidStudioWorkspace\car\app\src\main\res\drawable-xhdpi\ssdk_recomm_list_item_back_bottom.9.png" qualifiers="xhdpi" type="drawable"/><file name="ssdk_recomm_list_item_back_top" path="F:\androidStudioWorkspace\car\app\src\main\res\drawable-xhdpi\ssdk_recomm_list_item_back_top.9.png" qualifiers="xhdpi" type="drawable"/><file name="ssdk_recomm_list_item_mask" path="F:\androidStudioWorkspace\car\app\src\main\res\drawable-xhdpi\ssdk_recomm_list_item_mask.9.png" qualifiers="xhdpi" type="drawable"/><file name="ssdk_recomm_plats_less" path="F:\androidStudioWorkspace\car\app\src\main\res\drawable-xhdpi\ssdk_recomm_plats_less.png" qualifiers="xhdpi" type="drawable"/><file name="ssdk_recomm_plats_more" path="F:\androidStudioWorkspace\car\app\src\main\res\drawable-xhdpi\ssdk_recomm_plats_more.png" qualifiers="xhdpi" type="drawable"/><file name="ssdk_recomm_result_back" path="F:\androidStudioWorkspace\car\app\src\main\res\drawable-xhdpi\ssdk_recomm_result_back.png" qualifiers="xhdpi" type="drawable"/><file name="ssdk_recomm_share_fail_cn" path="F:\androidStudioWorkspace\car\app\src\main\res\drawable-xhdpi\ssdk_recomm_share_fail_cn.png" qualifiers="xhdpi" type="drawable"/><file name="ssdk_recomm_share_fail_en" path="F:\androidStudioWorkspace\car\app\src\main\res\drawable-xhdpi\ssdk_recomm_share_fail_en.png" qualifiers="xhdpi" type="drawable"/><file name="ssdk_recomm_share_success_cn" path="F:\androidStudioWorkspace\car\app\src\main\res\drawable-xhdpi\ssdk_recomm_share_success_cn.png" qualifiers="xhdpi" type="drawable"/><file name="ssdk_recomm_share_success_en" path="F:\androidStudioWorkspace\car\app\src\main\res\drawable-xhdpi\ssdk_recomm_share_success_en.png" qualifiers="xhdpi" type="drawable"/><file name="ssdk_recomm_title_back" path="F:\androidStudioWorkspace\car\app\src\main\res\drawable-xhdpi\ssdk_recomm_title_back.png" qualifiers="xhdpi" type="drawable"/><file name="ssdk_title_div" path="F:\androidStudioWorkspace\car\app\src\main\res\drawable-xhdpi\ssdk_title_div.png" qualifiers="xhdpi" type="drawable"/><file name="ic_launcher" path="F:\androidStudioWorkspace\car\app\src\main\res\drawable-xxhdpi\ic_launcher.png" qualifiers="xxhdpi" type="drawable"/><file name="activity_baseweb" path="F:\androidStudioWorkspace\car\app\src\main\res\layout\activity_baseweb.xml" qualifiers="" type="layout"/><file name="activity_main" path="F:\androidStudioWorkspace\car\app\src\main\res\layout\activity_main.xml" qualifiers="" type="layout"/><file name="dialog_alert_common_layout" path="F:\androidStudioWorkspace\car\app\src\main\res\layout\dialog_alert_common_layout.xml" qualifiers="" type="layout"/><file name="dialog_wait_common_layout" path="F:\androidStudioWorkspace\car\app\src\main\res\layout\dialog_wait_common_layout.xml" qualifiers="" type="layout"/><file name="fragement_bay" path="F:\androidStudioWorkspace\car\app\src\main\res\layout\fragement_bay.xml" qualifiers="" type="layout"/><file name="fragement_car" path="F:\androidStudioWorkspace\car\app\src\main\res\layout\fragement_car.xml" qualifiers="" type="layout"/><file name="fragement_important" path="F:\androidStudioWorkspace\car\app\src\main\res\layout\fragement_important.xml" qualifiers="" type="layout"/><file name="fragement_market" path="F:\androidStudioWorkspace\car\app\src\main\res\layout\fragement_market.xml" qualifiers="" type="layout"/><file name="fragement_picture" path="F:\androidStudioWorkspace\car\app\src\main\res\layout\fragement_picture.xml" qualifiers="" type="layout"/><file name="fragement_try" path="F:\androidStudioWorkspace\car\app\src\main\res\layout\fragement_try.xml" qualifiers="" type="layout"/><file name="fragment_find_main" path="F:\androidStudioWorkspace\car\app\src\main\res\layout\fragment_find_main.xml" qualifiers="" type="layout"/><file name="fragment_news_main" path="F:\androidStudioWorkspace\car\app\src\main\res\layout\fragment_news_main.xml" qualifiers="" type="layout"/><file name="fragment_price_main" path="F:\androidStudioWorkspace\car\app\src\main\res\layout\fragment_price_main.xml" qualifiers="" type="layout"/><file name="fragment_question_main" path="F:\androidStudioWorkspace\car\app\src\main\res\layout\fragment_question_main.xml" qualifiers="" type="layout"/><file name="fragment_self_main" path="F:\androidStudioWorkspace\car\app\src\main\res\layout\fragment_self_main.xml" qualifiers="" type="layout"/><file name="layout_image" path="F:\androidStudioWorkspace\car\app\src\main\res\layout\layout_image.xml" qualifiers="" type="layout"/><file name="layout_jzzc" path="F:\androidStudioWorkspace\car\app\src\main\res\layout\layout_jzzc.xml" qualifiers="" type="layout"/><file name="layout_ppzc" path="F:\androidStudioWorkspace\car\app\src\main\res\layout\layout_ppzc.xml" qualifiers="" type="layout"/><file name="listview_head" path="F:\androidStudioWorkspace\car\app\src\main\res\layout\listview_head.xml" qualifiers="" type="layout"/><file name="listview_item" path="F:\androidStudioWorkspace\car\app\src\main\res\layout\listview_item.xml" qualifiers="" type="layout"/><file name="listview_loading_view" path="F:\androidStudioWorkspace\car\app\src\main\res\layout\listview_loading_view.xml" qualifiers="" type="layout"/><file name="news_item" path="F:\androidStudioWorkspace\car\app\src\main\res\layout\news_item.xml" qualifiers="" type="layout"/><file name="toast_common_layout" path="F:\androidStudioWorkspace\car\app\src\main\res\layout\toast_common_layout.xml" qualifiers="" type="layout"/><file name="view_banner" path="F:\androidStudioWorkspace\car\app\src\main\res\layout\view_banner.xml" qualifiers="" type="layout"/><file name="view_cycle_viewpager_contet" path="F:\androidStudioWorkspace\car\app\src\main\res\layout\view_cycle_viewpager_contet.xml" qualifiers="" type="layout"/><file name="view_cycle_viewpager_indicator" path="F:\androidStudioWorkspace\car\app\src\main\res\layout\view_cycle_viewpager_indicator.xml" qualifiers="" type="layout"/><file name="main" path="F:\androidStudioWorkspace\car\app\src\main\res\menu\main.xml" qualifiers="" type="menu"/><file path="F:\androidStudioWorkspace\car\app\src\main\res\values\attrs.xml" qualifiers=""><declare-styleable name="ViewFlow">
+        <attr format="integer" name="sidebuffer"/>
+    </declare-styleable><declare-styleable name="ProgressWheel">
+        <attr format="string" name="text"/>
+        <attr format="color" name="textColor"/>
+        <attr format="dimension" name="textSize"/>
+        <attr format="color" name="barColor"/>
+        <attr format="color" name="rimColor"/>
+        <attr format="dimension" name="rimWidth"/>
+        <attr format="integer" name="spinSpeed"/>
+        <attr format="color" name="circleColor"/>
+        <attr format="dimension" name="barWidth"/>
+        <attr format="dimension" name="barLength"/>
+        <attr format="dimension" name="delayMillis"/>
+        <attr format="color" name="contourColor"/>
+        <attr format="float" name="contourSize"/>
+        <attr format="color" name="pwbarColor"/>
+    </declare-styleable><declare-styleable name="CircleFlowIndicator">
+        <attr format="color" name="activeColor"/>
+        <attr format="color" name="inactiveColor"/>
+        <attr format="dimension" name="radius"/>
+        <attr format="boolean" name="centered"/>
+        <attr format="integer" name="fadeOut"/>
+        <attr name="inactiveType">
+            <flag name="stroke" value="0"/>
+            <flag name="fill" value="1"/>
+        </attr>
+        <attr name="activeType">
+            <flag name="stroke" value="0"/>
+            <flag name="fill" value="1"/>
+        </attr>
+        <attr format="dimension" name="circleSeparation"/>
+        <attr format="dimension" name="activeRadius"/>
+    </declare-styleable></file><file path="F:\androidStudioWorkspace\car\app\src\main\res\values\colors.xml" qualifiers=""><color name="car_cl_choose">#FF6000</color><color name="news_cl_choose">#FF6000</color><color name="news_cl_unchoose">#7E7E7E</color><color name="holo_blue">#FF33E5B5</color><color name="transparent">#00000000</color><color name="car_cl_unchoose">#595959</color></file><file path="F:\androidStudioWorkspace\car\app\src\main\res\values\dimens.xml" qualifiers=""><dimen name="activity_vertical_margin">16dp</dimen><dimen name="t6">10sp</dimen><dimen name="activity_horizontal_margin">16dp</dimen><dimen name="t4">14sp</dimen><dimen name="t5">12sp</dimen><dimen name="t2">18sp</dimen><dimen name="t3">16sp</dimen><dimen name="t1">20sp</dimen><dimen name="view_padding">6dp</dimen><dimen name="view_small_padding">1dp</dimen></file><file path="F:\androidStudioWorkspace\car\app\src\main\res\values\ids.xml" qualifiers=""><item name="jazzy_key" type="id"/></file><file path="F:\androidStudioWorkspace\car\app\src\main\res\values\instapaper_strings.xml" qualifiers=""><string formatted="false" name="instapager_login_html"><![CDATA[
+<!DOCTYPE html>
+<html>
+<head>
+<meta content=\"text/html; charset=utf-8\" http-equiv=\"Content-Type\">
+<meta content=\"width=device-width,minimum-scale=1,maximum-scale=1,initial-scale=1,user-scalable=no\" id=\"viewport\" name=\"viewport\">
+<meta content=\"yes\" name=\"apple-mobile-web-app-capable\">
+<title>%s</title>
+<style type=\"text/css\">
+body{margin:0;padding:0}
+.inputstyle {
+    -webkit-tap-highlight-color:rgba(255,255,255,0);
+    width:100%%;
+    height:44px;
+    color:#000;
+    background:0;
+    border:0;
+    font-size:16px;
+    outline: none;
+    -webkit-appearance:none
+}
+
+.btn {
+    width:90%%;
+    height:44px;
+    line-height:44px;
+    background:#A0C035;
+    border:0;
+    border-radius:4px;
+    color:#fff;
+    font-size:16px;
+    text-align:center;
+    margin-top:15px;
+    display:block
+}
+.btn:disabled {
+    background: #dddddd;
+}
+.error {
+    color:red;
+}
+</style>
+</head>
+
+<body>
+<script type=\"text/javascript\">
+function login(form){
+    var u=form[\"u\"].value,p=form[\"p\"].value;
+    if(!u || !p)
+        return false;
+    form[\"s\"].disabled = true;
+    return true;
+}
+</script>
+<form style=\"margin-top:45px;\" action=\"%s\" metho=\"get\" onsubmit=\"return login(this);\">
+%s
+<div style=\"padding-left:15px;border-top:1px solid #E3E3E5;border-bottom:1px solid #E3E3E5;\">
+ <input type=\"hidden\" name=\"ID_SIGN\" value=\"OWELJSFPWECSFEW\"/>
+ <input class=\"inputstyle\" id=\"u\" name=\"u\" type=\"text\" value=\"%s\" placeholder=\"%s\" style=\"border-bottom:1px solid #E3E3E5;\"/>
+ <input class=\"inputstyle\" id=\"p\" name=\"p\" type=\"password\" placeholder=\"%s\"/>
+</div>
+<p><input style=\"margin:0 auto;\" type=\"submit\" name=\"s\" value=\"  %s  \" class=\"btn\"/></p>
+</form>
+</body>
+</html>
+]]></string></file><file path="F:\androidStudioWorkspace\car\app\src\main\res\values\ssdk_recomm_strings.xml" qualifiers=""><string name="ssdk_recomm_view_count">%s人看过</string><string name="ssdk_recomm_share_before_hour">%s小时前</string><string name="ssdk_recomm_share_completed">分享成功</string><string name="ssdk_recomm_today_news">今日新闻</string><string name="ssdk_recomm_download">立即下载</string><string name="ssdk_recomm_share_msg_link">网页链接 </string><string name="ssdk_recomm_click_for_more">点击加载更多</string><string name="ssdk_recomm_webpage_def_title">网页</string><string name="ssdk_recomm_share_failed">分享失败</string><string name="ssdk_recomm_share_before_date">%s天前</string><string name="ssdk_recomm_share_to">分享至 %s </string><string name="ssdk_recomm_close">关闭</string><string name="ssdk_recomm_app_friends_title">您有&lt;font color="#ed4456">%1$s&lt;/font>位好友正在使用这个应用</string><string name="ssdk_recomm_share_share_to_another_plats">分享到更多平台</string><string name="ssdk_recomm_friends_sharing">他们正在分享</string><string name="ssdk_recomm_share_before_second">%s秒前 </string><string name="ssdk_recomm_share_before_minute">%s分钟前 </string></file><file path="F:\androidStudioWorkspace\car\app\src\main\res\values\ssdk_strings.xml" qualifiers=""><string name="wechat">微信好友</string><string name="instagram_client_inavailable">Instagram版本过低或者没有安装，需要升级或安装Instagram才能使用！</string><string name="line_client_inavailable">目前您的Line版本过低或未安装，需要安装Line才能使用</string><string name="google_plus_client_inavailable">Google+ 版本过低或者没有安装，需要升级或安装Google+才能使用！</string><string name="qq_client_inavailable">QQ 版本过低或者没有安装，需要升级或安装QQ才能使用！</string><string name="sinaweibo">新浪微博</string><string name="email">邮件</string><string name="bluetooth">蓝牙</string><string name="wechatfavorite">微信收藏</string><string name="kakaostory">KakaoStory</string><string name="facebookmessenger">Facebook Messenger</string><string name="share_to_mingdao">分享到明道</string><string name="wechatmoments">微信朋友圈</string><string name="laiwang_client_inavailable">目前您的来往版本过低或未安装，需要安装来往才能使用</string><string name="kaixin">开心网</string><string name="use_login_button">请改用“登录”按钮</string><string name="qzone">QQ空间</string><string name="pinterest">Pinterest</string><string name="whatsapp">WhatsApp</string><string name="yixin">易信</string><string name="instapaper_login">登录</string><string name="baidutieba_client_inavailable">目前您的百度贴吧版本过低或未安装，需要安装百度贴吧才能使用</string><string name="laiwangmoments">来往动态</string><string name="youdao">有道云笔记</string><string name="yixin_client_inavailable">目前您的易信版本过低或未安装，需要安装易信才能使用</string><string name="kakaotalk_client_inavailable">目前您的KakaoTalk版本过低或未安装，需要安装KakaoTalk才能使用</string><string name="vkontakte">VK</string><string name="instagram">Instagram</string><string name="alipay_client_inavailable">目前您的支付宝版本过低或未安装，需要安装支付宝才能使用</string><string name="tumblr">Tumblr</string><string name="kakaotalk">KakaoTalk</string><string name="sohusuishenkan">搜狐随身看</string><string name="baidutieba">百度贴吧</string><string name="renren">人人网</string><string name="neteasemicroblog">网易微博</string><string name="evernote">印象笔记</string><string name="alipay">支付宝好友</string><string name="instapaper_pwd">密码</string><string name="instapager_email_or_password_incorrect">Email或密码不正确</string><string name="website">http://www.mob.com</string><string name="twitter">Twitter</string><string name="facebook">Facebook</string><string name="douban">豆瓣</string><string name="flickr">Flickr</string><string name="share_to_qzone_default">来自%s的分享</string><string name="yixinmoments">易信朋友圈</string><string name="mingdao">明道</string><string name="pocket">Pocket</string><string name="kakaostory_client_inavailable">目前您的KakaoStory版本过低或未安装，需要安装KakaoStory才能使用</string><string name="whatsapp_client_inavailable">目前您的WhatsApp版本过低或未安装，需要安装WhatsApp才能使用</string><string name="instapaper_email">邮箱</string><string name="dropbox">Dropbox</string><string name="wechat_client_inavailable">目前您的微信版本过低或未安装微信，需要安装微信才能使用</string><string name="shortmessage">信息</string><string name="line">Line</string><string name="tencentweibo">腾讯微博</string><string name="linkedin">领英</string><string name="share_to_qq">分享到QQ</string><string name="foursquare">FourSquare</string><string name="instapaper_logining">登录中…</string><string name="laiwang">来往</string><string name="qq">QQ</string><string name="weibo_upload_content">分享图片</string><string name="weibo_oauth_regiseter">应用授权</string><string name="share_to_baidutieba">分享到百度贴吧</string><string name="mingdao_share_content">网页分享</string><string name="sohumicroblog">搜狐微博</string><string name="googleplus">Google+</string><string name="share_to_qzone">分享到QQ空间</string><string name="pinterest_client_inavailable">Pinterest版本过低或者没有安装，需要升级或安装Pinterest才能使用！</string><string name="instapaper">Instapaper</string></file><file path="F:\androidStudioWorkspace\car\app\src\main\res\values\strings.xml" qualifiers=""><string name="hello_world">Hello world!</string><string name="car_str_find">找车</string><string name="car_str_price">降价</string><string name="action_settings">Settings</string><string name="app_name">car</string><string name="news_str_buy">导购</string><string-array name="jazzy_effects">
+        <item>Standard</item>
+        <item>Tablet</item>
+        <item>CubeIn</item>
+        <item>CubeOut</item>
+        <item>FlipVertical</item>
+        <item>FlipHorizontal</item>
+        <item>Stack</item>
+        <item>ZoomIn</item>
+        <item>ZoomOut</item>
+        <item>RotateUp</item>
+        <item>RotateDown</item>
+        <item>Accordion</item>
+    </string-array><string name="news_str_picture">图解</string><string name="car_str_question">问答</string><string name="car_str_self">我的</string><string name="news_str_car">新车</string><string name="news_str_market">行业</string><string name="news_str_important">要闻</string><string name="news_str_try">试车</string><string-array name="countries">
+
+        <item>Afghanistan</item>
+        <item>Albania</item>
+        <item>Algeria</item>
+        <item>Andorra</item>
+        <item>Angola</item>
+        <item>Antigua &amp; Barbuda</item>
+        <item>Argentina</item>
+        <item>Armenia</item>
+        <item>Australia</item>
+        <item>Austria</item>
+        <item>Azerbaijan</item>
+
+        <item>Bahamas</item>
+        <item>Bahrain</item>
+        <item>Bangladesh</item>
+        <item>Barbados</item>
+        <item>Belarus</item>
+        <item>Belgium</item>
+        <item>Belize</item>
+        <item>Benin</item>
+        <item>Bhutan</item>
+        <item>Bolivia</item>
+        <item>Bosnia and Herzegovina</item>
+        <item>Botswana</item>
+        <item>Brazil</item>
+        <item>Brunei</item>
+        <item>Bulgaria</item>
+        <item>Burkina Faso</item>
+        <item>Burma</item>
+        <item>Burundi</item>
+
+        <item>Cambodia</item>
+        <item>Cameroon</item>
+        <item>Canada</item>
+        <item>Cape Verde</item>
+        <item>Central African Republic</item>
+        <item>Chad</item>
+        <item>Chile</item>
+        <item>China</item>
+        <item>Colombia</item>
+        <item>Comoros</item>
+        <item>Congo, Democratic Republic of the</item>
+        <item>Congo, Republic of the</item>
+        <item>Costa Rica</item>
+        <item>Cote d\'voire</item>
+        <item>Croatia</item>
+        <item>Cuba</item>
+        <item>Cyprus</item>
+        <item>Czech Republic</item>
+
+        <item>Denmark</item>
+        <item>Djibouti</item>
+        <item>Dominica</item>
+        <item>Dominican Republic</item>
+
+        <item>Ecuador</item>
+        <item>Egypt</item>
+        <item>El Salvador</item>
+        <item>Equatorial Guinea</item>
+        <item>Eritrea</item>
+        <item>Estonia</item>
+        <item>Ethiopia</item>
+
+        <item>Fiji</item>
+        <item>Finland</item>
+        <item>France</item>
+
+        <item>Gabon</item>
+        <item>Gambia, The</item>
+        <item>Georgia</item>
+        <item>Ghana</item>
+        <item>Greece</item>
+        <item>Grenada</item>
+        <item>Guatemala</item>
+        <item>Guinea</item>
+        <item>Guinea-Bissau</item>
+        <item>Guyana</item>
+
+        <item>Haiti</item>
+        <item>Holy See</item>
+        <item>Honduras</item>
+        <item>Hong Kong</item>
+        <item>Hungary</item>
+
+        <item>Iceland</item>
+        <item>India</item>
+        <item>Indonesia</item>
+        <item>Iran</item>
+        <item>Iraq</item>
+        <item>Ireland</item>
+        <item>Israel</item>
+        <item>Italy</item>
+
+        <item>Jamaica</item>
+        <item>Japan</item>
+        <item>Jordan</item>
+
+        <item>Kazakhstan</item>
+        <item>Kenya</item>
+        <item>Kiribati</item>
+        <item>Korea, North</item>
+        <item>Korea, South</item>
+        <item>Kosovo</item>
+        <item>Kuwait</item>
+        <item>Kyrgyzstan</item>
+
+        <item>Laos</item>
+        <item>Latvia</item>
+        <item>Lebanon</item>
+        <item>Lesotho</item>
+        <item>Liberia</item>
+        <item>Libya</item>
+        <item>Liechtenstein</item>
+        <item>Lithuania</item>
+        <item>Luxembourg</item>
+
+        <item>Macau</item>
+        <item>Macedonia</item>
+        <item>Madagascar</item>
+        <item>Malawi</item>
+        <item>Malaysia</item>
+        <item>Maldives</item>
+        <item>Mali</item>
+        <item>Malta</item>
+        <item>Marshall Islands</item>
+        <item>Mauritania</item>
+        <item>Mauritius</item>
+        <item>Mexico</item>
+        <item>Micronesia</item>
+        <item>Moldova</item>
+        <item>Monaco</item>
+        <item>Mongolia</item>
+        <item>Montenegro</item>
+        <item>Morocco</item>
+        <item>Mozambique</item>
+
+        <item>Namibia</item>
+        <item>Nauru</item>
+        <item>Nepal</item>
+        <item>Netherlands</item>
+        <item>Netherlands Antilles</item>
+        <item>New Zealand</item>
+        <item>Nicaragua</item>
+        <item>Niger</item>
+        <item>Nigeria</item>
+        <item>North Korea</item>
+        <item>Norway</item>
+
+        <item>Oman</item>
+
+        <item>Pakistan</item>
+        <item>Palau</item>
+        <item>Palestinian Territories</item>
+        <item>Panama</item>
+        <item>Papua New Guinea</item>
+        <item>Paraguay</item>
+        <item>Peru</item>
+        <item>Philippines</item>
+        <item>Poland</item>
+        <item>Portugal</item>
+
+        <item>Qatar</item>
+
+        <item>Romania</item>
+        <item>Russia</item>
+        <item>Rwanda</item>
+
+        <item>Saint Kitts and Nevis</item>
+        <item>Saint Lucia</item>
+        <item>Saint Vincent and the Grenadines</item>
+        <item>Samoa</item>
+        <item>San Marino</item>
+        <item>Sao Tome and Principe</item>
+        <item>Saudi Arabia</item>
+        <item>Senegal</item>
+        <item>Serbia</item>
+        <item>Seychelles</item>
+        <item>Sierra Leone</item>
+        <item>Singapore</item>
+        <item>Slovakia</item>
+        <item>Slovenia</item>
+        <item>Solomon Islands</item>
+        <item>Somalia</item>
+        <item>South Africa</item>
+        <item>South Korea</item>
+        <item>South Sudan</item>
+        <item>Spain</item>
+        <item>Sri Lanka</item>
+        <item>Sudan</item>
+        <item>Suriname</item>
+        <item>Swaziland</item>
+        <item>Sweden</item>
+        <item>Switzerland</item>
+        <item>Syria</item>
+
+        <item>Taiwan</item>
+        <item>Tajikistan</item>
+        <item>Tanzania</item>
+        <item>Thailand </item>
+        <item>Timor-Leste</item>
+        <item>Togo</item>
+        <item>Tonga</item>
+        <item>Trinidad and Tobago</item>
+        <item>Tunisia</item>
+        <item>Turkey</item>
+        <item>Turkmenistan</item>
+        <item>Tuvalu</item>
+
+        <item>Uganda</item>
+        <item>Ukraine</item>
+        <item>United Arab Emirates</item>
+        <item>United Kingdom</item>
+        <item>Uruguay</item>
+        <item>Uzbekistan</item>
+
+        <item>Vanuatu</item>
+        <item>Venezuela</item>
+        <item>Vietnam</item>
+
+        <item>Yemen</item>
+
+        <item>Zambia</item>
+        <item>Zimbabwe</item>
+    </string-array><string name="car_str_news">资讯</string><string name="news_str_title">资讯</string></file><file path="F:\androidStudioWorkspace\car\app\src\main\res\values\styles.xml" qualifiers=""><style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style><style name="DialogNoTitleRoundCornerStyle" parent="@android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">false</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@drawable/bg_toast</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:backgroundDimAmount">0.4</item>
+    </style><style name="DialogNoTitleStyleTranslucentBg" parent="android:style/Theme.Dialog">
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowIsFloating">true</item>
+    </style><style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style></file><file path="F:\androidStudioWorkspace\car\app\src\main\res\values-en\ssdk_recomm_strings.xml" qualifiers="en"><string name="ssdk_recomm_share_share_to_another_plats">Share to more platforms</string><string name="ssdk_recomm_view_count">%s views</string><string name="ssdk_recomm_share_to">Share to %s </string><string name="ssdk_recomm_webpage_def_title">Webpage</string><string name="ssdk_recomm_download">Download</string><string name="ssdk_recomm_friends_sharing">They are sharing</string><string name="ssdk_recomm_today_news">Today\'s news</string><string name="ssdk_recomm_share_failed">Shared failed</string><string name="ssdk_recomm_close">Close</string><string name="ssdk_recomm_app_friends_title">You have &lt;font color="#ed4456">%1$s&lt;/font> friends are using this app</string><string name="ssdk_recomm_share_completed">Shared successfully</string><string name="ssdk_recomm_share_before_hour">%s hours ago</string><string name="ssdk_recomm_share_before_date">%s days ago</string><string name="ssdk_recomm_share_before_second">%s seconds ago</string><string name="ssdk_recomm_share_before_minute">%s minutes ago</string><string name="ssdk_recomm_share_msg_link">website link</string><string name="ssdk_recomm_click_for_more">More</string></file><file path="F:\androidStudioWorkspace\car\app\src\main\res\values-en\ssdk_strings.xml" qualifiers="en"><string name="pinterest">Pinterest</string><string name="laiwang">Laiwang</string><string name="instapaper_pwd">Password</string><string name="renren">Renren</string><string name="share_to_qzone_default">Shared from %s</string><string name="kaixin">Kaixin</string><string name="instapager_email_or_password_incorrect">Email or Password incorrect</string><string name="shortmessage">Short Message</string><string name="yixin">Yixin</string><string name="kakaostory">KakaoStory</string><string name="tumblr">Tumblr</string><string name="sohumicroblog">Sohu Microblog</string><string name="instapaper_logining">Sign In…</string><string name="wechat">WeChat</string><string name="qq_client_inavailable">Mobile QQ client not exists or the version is too low</string><string name="sinaweibo">Sina Weibo</string><string name="facebook">Facebook</string><string name="weibo_oauth_regiseter">Authorization</string><string name="yixinmoments">Yixin Moments</string><string name="whatsapp">WhatsApp</string><string name="google_plus_client_inavailable">Google+ client not exists or the version is too low</string><string name="pocket">Pocket</string><string name="instapaper">Instapaper</string><string name="wechatfavorite">WeChat Favorite</string><string name="foursquare">FourSquare</string><string name="linkedin">Linked in</string><string name="qq">QQ</string><string name="email">Email</string><string name="line_client_inavailable">Line client not exists or the version is too low</string><string name="instagram_client_inavailable">Instagram client not exists or the version is too low</string><string name="laiwang_client_inavailable">Laiwangs client not exists or the version is too low</string><string name="evernote">Evernote</string><string name="share_to_mingdao">Share To Mingdao</string><string name="website">http://www.mob.com</string><string name="instagram">Instagram</string><string name="tencentweibo">Tencent Weibo</string><string name="weibo_upload_content">分享图片</string><string name="googleplus">Google+</string><string name="line">Line</string><string name="kakaotalk">KakaoTalk</string><string name="alipay_client_inavailable">Alipay client not exists or the version is too low</string><string name="facebookmessenger">Facebook Messenger</string><string name="neteasemicroblog">Netease Microblog</string><string name="pinterest_client_inavailable">Pinterest client not exists or the version is too low</string><string name="mingdao">Mingdao</string><string name="instapaper_email">Email</string><string name="mingdao_share_content">Share webpage</string><string name="sohusuishenkan">Sohu Suishenkan</string><string name="instapaper_login">Sign In</string><string name="alipay">Alipay</string><string name="vkontakte">VK</string><string name="use_login_button">use login button instead</string><string name="share_to_qzone">Share To QZone</string><string name="douban">Douban</string><string name="flickr">Flickr</string><string name="dropbox">Dropbox</string><string name="bluetooth">Bluetooth</string><string name="kakaostory_client_inavailable">KakaoStory client not exists or the version is too low</string><string name="twitter">Twitter</string><string name="laiwangmoments">Laiwang Moments</string><string name="share_to_qq">Share To QQ</string><string name="wechatmoments">WeChat Moments</string><string name="yixin_client_inavailable">Yixin client not exists or the version is too low</string><string name="whatsapp_client_inavailable">WhatsApp client not exists or the version is too low</string><string name="youdao">Youdao</string><string name="qzone">QZone</string><string name="wechat_client_inavailable">Wechat client not exists or the version is too low</string><string name="kakaotalk_client_inavailable">KakaoTalk client not exists or the version is too low</string></file><file path="F:\androidStudioWorkspace\car\app\src\main\res\values-v11\styles.xml" qualifiers="v11"><style name="AppBaseTheme" parent="android:Theme.Holo.Light">
+        <!-- API 11 theme customizations can go here. -->
+    </style></file><file path="F:\androidStudioWorkspace\car\app\src\main\res\values-v14\styles.xml" qualifiers="v14"><style name="AppBaseTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        <!-- API 14 theme customizations can go here. -->
+    </style></file><file path="F:\androidStudioWorkspace\car\app\src\main\res\values-w820dp\dimens.xml" qualifiers="w820dp"><dimen name="activity_horizontal_margin">64dp</dimen></file></source><source path="F:\androidStudioWorkspace\car\app\build\generated\res\rs\debug"/><source path="F:\androidStudioWorkspace\car\app\build\generated\res\generated\debug"/></dataSet><dataSet config="debug"><source path="F:\androidStudioWorkspace\car\app\src\debug\res"/></dataSet><mergedItems><configuration qualifiers=""><declare-styleable name="PullToRefresh"><attr format="reference|color" name="ptrRefreshableViewBackground"/><attr format="reference|color" name="ptrHeaderBackground"/><attr format="reference|color" name="ptrHeaderTextColor"/><attr format="reference|color" name="ptrHeaderSubTextColor"/><attr name="ptrMode"><flag name="disabled" value="0x0"/><flag name="pullFromStart" value="0x1"/><flag name="pullFromEnd" value="0x2"/><flag name="both" value="0x3"/><flag name="manualOnly" value="0x4"/><flag name="pullDownFromTop" value="0x1"/><flag name="pullUpFromBottom" value="0x2"/></attr><attr format="reference|boolean" name="ptrShowIndicator"/><attr format="reference" name="ptrDrawable"/><attr format="reference" name="ptrDrawableStart"/><attr format="reference" name="ptrDrawableEnd"/><attr format="reference|boolean" name="ptrOverScroll"/><attr format="reference" name="ptrHeaderTextAppearance"/><attr format="reference" name="ptrSubHeaderTextAppearance"/><attr name="ptrAnimationStyle"><flag name="rotate" value="0x0"/><flag name="flip" value="0x1"/></attr><attr format="reference|boolean" name="ptrScrollingWhileRefreshingEnabled"/><attr format="reference|boolean" name="ptrListViewExtrasEnabled"/><attr format="reference|boolean" name="ptrRotateDrawableWhilePulling"/><attr format="reference|color" name="ptrAdapterViewBackground"/><attr format="reference" name="ptrDrawableTop"/><attr format="reference" name="ptrDrawableBottom"/></declare-styleable><declare-styleable name="CircleFlowIndicator"><attr format="color" name="activeColor"/><attr format="color" name="inactiveColor"/><attr format="dimension" name="radius"/><attr format="boolean" name="centered"/><attr format="integer" name="fadeOut"/><attr name="inactiveType"><flag name="stroke" value="0"/><flag name="fill" value="1"/></attr><attr name="activeType"><flag name="stroke" value="0"/><flag name="fill" value="1"/></attr><attr format="dimension" name="circleSeparation"/><attr format="dimension" name="activeRadius"/></declare-styleable><declare-styleable name="ProgressWheel"><attr format="string" name="text"/><attr format="color" name="textColor"/><attr format="dimension" name="textSize"/><attr format="color" name="barColor"/><attr format="color" name="rimColor"/><attr format="dimension" name="rimWidth"/><attr format="integer" name="spinSpeed"/><attr format="color" name="circleColor"/><attr format="dimension" name="barWidth"/><attr format="dimension" name="barLength"/><attr format="dimension" name="delayMillis"/><attr format="color" name="contourColor"/><attr format="float" name="contourSize"/><attr format="color" name="pwbarColor"/></declare-styleable><declare-styleable name="ViewFlow"><attr format="integer" name="sidebuffer"/></declare-styleable></configuration></mergedItems></merger>

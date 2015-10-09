@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\androidStudioWorkspace\car\app\libs\Bmob_Push_V0.6beta_20150408.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="db21ec99c2c7bf91c67bf80f5c5c49a92dd0562e">
+        <dex dex="F:\androidStudioWorkspace\car\app\build\intermediates\pre-dexed\debug\Bmob_Push_V0.6beta_20150408-a593775da5b4d1a99217d67f95c1d1fd0766afbe.jar" />
+    </item>
+    <item
+        jar="F:\androidStudioWorkspace\car\app\libs\nineoldandroids-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="59f19e43354d32de831379c23ce03bb259a4c2b7">
+        <dex dex="F:\androidStudioWorkspace\car\app\build\intermediates\pre-dexed\debug\nineoldandroids-2.4.0-f9f607542dd4c54764cb312c8e801765b6daad50.jar" />
+    </item>
+    <item
+        jar="F:\androidStudioWorkspace\car\app\libs\ViewpagerIndicator_1.0.2.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="78b8438e99149e4676e8fbc93b8c3cabb520fb42">
+        <dex dex="F:\androidStudioWorkspace\car\app\build\intermediates\pre-dexed\debug\ViewpagerIndicator_1.0.2-a214626ee9ca6e5b545090c653da7bcc8f91679f.jar" />
+    </item>
+    <item
+        jar="F:\androidStudioWorkspace\car\app\libs\ShareSDK-Wechat-Core-2.6.3.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="33861299042fa89a53c56f3a15c37ba865a7d2e9">
+        <dex dex="F:\androidStudioWorkspace\car\app\build\intermediates\pre-dexed\debug\ShareSDK-Wechat-Core-2.6.3-9d43b5c7024b4bd2a8bc2962e9028dcfad52cc2e.jar" />
+    </item>
+    <item
+        jar="F:\androidStudioWorkspace\car\app\libs\gson-2.3.1.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="F:\androidStudioWorkspace\car\app\build\intermediates\pre-dexed\debug\gson-2.3.1-a5c5c903b38b795eaf0013db16434ee3fa6c3fcf.jar" />
+    </item>
+    <item
+        jar="F:\androidStudioWorkspace\car\app\libs\ShareSDK-Core-2.6.3.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="d072ff710fbddf800658d07d735ca3c5464ea04f">
+        <dex dex="F:\androidStudioWorkspace\car\app\build\intermediates\pre-dexed\debug\ShareSDK-Core-2.6.3-a6c429ed9adeb2ce248a39a1bd605ee3a8d50efa.jar" />
+    </item>
+    <item
+        jar="F:\androidStudioWorkspace\car\app\libs\okhttp-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="40340c0748190fe897baf7bffbc1b282734294e5">
+        <dex dex="F:\androidStudioWorkspace\car\app\build\intermediates\pre-dexed\debug\okhttp-2.4.0-1fb0ef9c25dae25ed96da1161b80a2ac131214d0.jar" />
+    </item>
+    <item
+        jar="F:\androidStudioWorkspace\car\app\libs\universal-image-loader-1.9.4.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="dd9eeb557650c4ad7394df23f0f5cf27a7cfc697">
+        <dex dex="F:\androidStudioWorkspace\car\app\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.4-e1e2a87e3fb617a5dcc502c2ed059bc5eabd7f28.jar" />
+    </item>
+    <item
+        jar="F:\androidStudioWorkspace\car\app\libs\ShareSDK-Wechat-Moments-2.6.3.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="2f743f1144aac80632be6d2ab76bff091a447b75">
+        <dex dex="F:\androidStudioWorkspace\car\app\build\intermediates\pre-dexed\debug\ShareSDK-Wechat-Moments-2.6.3-e46dbfa1006c90e3ebcbddbefccd668ed7e6b6d7.jar" />
+    </item>
+    <item
+        jar="F:\androidStudioWorkspace\car\app\libs\ShareSDK-QQ-2.6.3.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="496e163b2b242a83885f065f193810611ada229a">
+        <dex dex="F:\androidStudioWorkspace\car\app\build\intermediates\pre-dexed\debug\ShareSDK-QQ-2.6.3-8cbd30ab19c9ebb12f36578a2d4df52909dac6ea.jar" />
+    </item>
+    <item
+        jar="F:\androidStudioWorkspace\car\app\libs\BmobSDK_V3.4.4_0930.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="504064278d5cd28bb2c47245dd3af8176d4ce7eb">
+        <dex dex="F:\androidStudioWorkspace\car\app\build\intermediates\pre-dexed\debug\BmobSDK_V3.4.4_0930-8e1e58a614d328374da151aefac51f3df4477106.jar" />
+    </item>
+    <item
+        jar="F:\androidStudioWorkspace\car\app\libs\ShareSDK-QZone-2.6.3.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="32748d59aaaf19ba26918dfecb9e2c35c80955fb">
+        <dex dex="F:\androidStudioWorkspace\car\app\build\intermediates\pre-dexed\debug\ShareSDK-QZone-2.6.3-146602f088ae0396d00b46751efc30f8d2a0c8c7.jar" />
+    </item>
+    <item
+        jar="F:\androidStudioWorkspace\car\app\libs\MobLogCollector.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="0488dc80a5addc72b2fcb515f792a130c164ab5f">
+        <dex dex="F:\androidStudioWorkspace\car\app\build\intermediates\pre-dexed\debug\MobLogCollector-29d3389611e586eca0b8978816911d5732747f58.jar" />
+    </item>
+    <item
+        jar="F:\androidStudioWorkspace\car\app\libs\ShareSDK-Wechat-Favorite-2.6.3.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="b93c3df93503fdc529d8b43fd2f7a9f86f8cb9c5">
+        <dex dex="F:\androidStudioWorkspace\car\app\build\intermediates\pre-dexed\debug\ShareSDK-Wechat-Favorite-2.6.3-8a50db84d4a77aa1db4fb1d942a33270ee6d4cb4.jar" />
+    </item>
+    <item
+        jar="F:\androidStudioWorkspace\car\app\libs\ShareSDK-Wechat-2.6.3.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="c392d274c49d5b505a94edcd760c7e0e1536b034">
+        <dex dex="F:\androidStudioWorkspace\car\app\build\intermediates\pre-dexed\debug\ShareSDK-Wechat-2.6.3-98530f58da858dfad4103223456cdccc6a3b1b45.jar" />
+    </item>
+    <item
+        jar="F:\androidStudioWorkspace\car\app\libs\fastjson-1.1.23.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="ef04ec620624a71d05372f1335e4264577def71e">
+        <dex dex="F:\androidStudioWorkspace\car\app\build\intermediates\pre-dexed\debug\fastjson-1.1.23-9b09ad2778e0d9b434eecb3e374754fdd4316bc9.jar" />
+    </item>
+    <item
+        jar="F:\androidStudioWorkspace\car\app\libs\MobTools.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="23e791d96579e8c56fd11f1912130ff93c2d6289">
+        <dex dex="F:\androidStudioWorkspace\car\app\build\intermediates\pre-dexed\debug\MobTools-2b03a4ac5dfe64fb86d765b4f113fc9c74daa8d9.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="F:\androidStudioWorkspace\car\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0-4b5a6ed7e9e22e88e5c55e2e8f15ad0f8f4e50c4.jar" />
+    </item>
+    <item
+        jar="F:\androidStudioWorkspace\car\app\libs\core-xutils.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="178e0aa05871aba4acd8f2399f4e4d7c8d7aef9a">
+        <dex dex="F:\androidStudioWorkspace\car\app\build\intermediates\pre-dexed\debug\core-xutils-bf42949f61a9836bfca6cbe1f7d95de1b42b74ab.jar" />
+    </item>
+    <item
+        jar="F:\androidStudioWorkspace\car\app\build\intermediates\exploded-aar\car\library\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="ca31ff4bf2abd7318426942b971d662bd4c5605f">
+        <dex dex="F:\androidStudioWorkspace\car\app\build\intermediates\pre-dexed\debug\classes-0e2a41bacfd12a939a2c7395e791d39708e09b12.jar" />
+    </item>
+    <item
+        jar="F:\androidStudioWorkspace\car\app\libs\okio-1.4.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="5b72bf48563ea8410e650de14aa33ff69a3e8c35">
+        <dex dex="F:\androidStudioWorkspace\car\app\build\intermediates\pre-dexed\debug\okio-1.4.0-5847b7ef9abe2ef4798e19074a28fc7f0eb43c5a.jar" />
+    </item>
+
+</items>
